@@ -25,22 +25,3 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- ⚽ [Real Madrid Clone](https://github.com/Fauzi-Taufiq/real-madrid-clone)  
-  Front-end clone project inspired by Real Madrid's official site
-
-- ☕ [Starbucks Landing Page](https://github.com/Fauzi-Taufiq/code-gabut)  
-  A stylish landing page for Starbucks – built for practice & fun
-
----
-
-### 📫 Let's Connect
-
-[![Email](https://img.shields.io/badge/email-fauzi@example.com-blue?style=flat&logo=gmail)](mailto:fauzi@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fauzi_Taufiq-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/fauzi-taufiq)
-[![GitHub](https://img.shields.io/badge/GitHub-Fauzi--Taufiq-black?style=flat&logo=github)](https://github.com/Fauzi-Taufiq)
-
----
-
-<sub><center>“Keep it simple, but significant.”</center></sub>
