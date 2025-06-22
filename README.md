@@ -2,7 +2,7 @@
 
 <p align="center">
   👨‍💻 Front-End Enthusiast & Aspiring Fullstack Developer <br/>
-  🇮🇩 Based in Indonesia | 🛠️ Currently learning React, Next.js, and Node.js
+  🛠️ Currently learning React, Next.js, and Node.js
 </p>
 
 ---
