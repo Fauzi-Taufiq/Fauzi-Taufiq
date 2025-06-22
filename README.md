@@ -2,7 +2,8 @@
 
 <p align="center">
   👨‍💻 Front-End Enthusiast & Aspiring Fullstack Developer <br/>
-  🛠️ Currently learning React, Next.js, and Node.js
+  🛠️ Currently learning React, Next.js, and Node.js <br/>
+  🗄️ Experienced Database Manager
 </p>
 
 ---
@@ -10,6 +11,7 @@
 ### 🧭 About Me
 
 - 🧠 I love solving problems and turning ideas into web experiences
+- 🗄️ Experienced in database management and backend development
 - 📚 Always learning, always curious
 - 🛠️ Currently building: `real-madrid-clone`, `starbucks-landing`
 - 🌱 Learning path: JavaScript → React → Next.js → Fullstack with Node
@@ -24,4 +26,3 @@
 </p>
 
 ---
-
