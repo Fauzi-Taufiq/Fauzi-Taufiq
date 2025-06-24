@@ -39,7 +39,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fauzi-Taufiq&show_icons=true&theme=transparent&hide_title=true" width="48%" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Fauzi-Taufiq&show_icons=true&theme=transparent&hide_title=true" width="48%" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzi-Taufiq&layout=compact&theme=transparent" width="48%" />
 </p>
 
