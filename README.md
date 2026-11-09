@@ -2,7 +2,7 @@
 
 <p align="center">
   Full-Stack Developer<br/>
-  React · Next.js · Laravel · MySQL
+  React · Next.js · Laravel · Flutter · MySQL
 </p>
 
 <p align="center">
@@ -16,18 +16,17 @@
 ## About
 
 I'm a full-stack developer with a strong foundation in database design and
-backend logic. I enjoy turning ideas into clean, responsive, and
-user-friendly web applications, from the interface in React and Next.js
-to the API and data layer in Laravel and MySQL.
-
-**Currently working on**
-- `real-madrid-clone`: a responsive club website built with modern front-end tooling
-- `starbucks-landing`: a pixel-focused landing page with attention to UI detail
+backend logic. I build clean, responsive web applications, from the
+interface in React and Next.js to the API and data layer in Laravel and
+MySQL. I also build cross-platform mobile apps with Flutter and apply
+machine learning to text data, such as sentiment analysis with Random Forest.
 
 **Focus areas**
 - Component-based UI development with React and Next.js
 - Backend development and REST APIs with Laravel
+- Mobile app development with Flutter
 - Relational database design and query optimization with MySQL
+- Data analysis and text classification with Python
 
 ---
 
@@ -47,6 +46,12 @@ to the API and data layer in Laravel and MySQL.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
+**Mobile & Data**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -59,8 +64,14 @@ to the API and data layer in Laravel and MySQL.
 
 | Project | Description | Stack |
 |---|---|---|
-| [real-madrid-clone](https://github.com/Fauzi-Taufiq/real-madrid-clone) | Responsive football club website | React, Next.js |
-| [starbucks-landing](https://github.com/Fauzi-Taufiq/starbucks-landing) | Brand landing page with clean UI | HTML, CSS, JavaScript |
+| [movietix](https://github.com/Fauzi-Taufiq/movietix) | Movie ticket booking web app | Laravel, MySQL |
+| [nexakun-accountstore](https://github.com/Fauzi-Taufiq/nexakun-accountstore) | Marketplace for buying and selling game accounts | Laravel, MySQL |
+| [starrail-progress-apk](https://github.com/Fauzi-Taufiq/starrail-progress-apk) | Mobile app to track Honkai: Star Rail account progress | Flutter, Dart |
+| [brawl-stars-sentimen-analysis](https://github.com/Fauzi-Taufiq/brawl-stars-sentimen-analysis) | Sentiment analysis of Brawl Stars reviews using Random Forest, reaching 86% accuracy | Python, Random Forest |
+| [real-madrid-clone](https://github.com/Fauzi-Taufiq/real-madrid-clone) | Responsive football club website clone | React, Next.js |
+| [fornite-clone](https://github.com/Fauzi-Taufiq/fornite-clone) | Fortnite website UI clone | HTML, CSS, JavaScript |
+
+More repositories: [github.com/Fauzi-Taufiq?tab=repositories](https://github.com/Fauzi-Taufiq?tab=repositories)
 
 ---
 
