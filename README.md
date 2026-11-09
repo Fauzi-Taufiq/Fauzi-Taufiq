@@ -75,15 +75,6 @@ More repositories: [github.com/Fauzi-Taufiq?tab=repositories](https://github.com
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fauzi-Taufiq&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzi-Taufiq&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
-
 ## Let's Connect
 
 Open to collaboration, freelance opportunities, and full-stack developer roles.
